@@ -1,6 +1,6 @@
 #############################################################################################
 # File Name: randomPassword.py                                                              #
-# Python Version: 3.9.13                                                                  #
+# Python Version: 3.9.13                                                                    #
 #                                                                                           #
 # Author: Bryce Whitney                                                                     #
 # Last Edit: June 22, 2022                                                                  #
