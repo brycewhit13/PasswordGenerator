@@ -11,9 +11,6 @@
 # Required imports
 import os
 import random
-from numpy import column_stack
-
-from pyparsing import col
 from randomPassword import generatePassword
 import tkinter as tk
 from tkinter import messagebox
