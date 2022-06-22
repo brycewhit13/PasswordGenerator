@@ -5,3 +5,4 @@ A list of things to continue in this project:
 - Freshen GUI
 - More advanced password geenration options
 	- e.g. Must start with capital, end with symbol, etc.
+- Add requirements.txt
