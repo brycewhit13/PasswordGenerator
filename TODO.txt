@@ -1,0 +1,7 @@
+A list of things to continue in this project:
+
+- Refactor code to make it neater
+- Allow option to run directly from the command line with a flag
+- Freshen GUI
+- More advanced password geenration options
+	- e.g. Must start with capital, end with symbol, etc.
